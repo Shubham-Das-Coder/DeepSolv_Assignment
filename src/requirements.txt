@@ -1,0 +1,9 @@
+streamlit
+openai
+PyMuPDF
+beautifulsoup4
+requests
+youtube_transcript_api
+sentence-transformers
+faiss-cpu
+numpy
